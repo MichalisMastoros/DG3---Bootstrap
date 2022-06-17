@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>DG3 Einopdracht</title>
   <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- uiterlijk -->
@@ -18,20 +18,28 @@
   <style>
   body{background-image: url(background/lovedeep-singh-ship-jpeg.jpg);}
   </style>
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-1" style="background-color:gray;"><a href="home.html"> <i style="font-size:45px;color:white" class="fa fa-home fa-4x"></i></a></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='aboutme.html'">About Me</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='gallery.html'">Gallery</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='sub.html'">Contact</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='news.html'">News</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='review.html'">Reviews</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='creator.html'">Creator</button></div>
-      <div class="col-sm-2" style="background-color:gray;"><button></button></div>
-      <div class="col-sm-1" style="background-color:gray;"></div>
-      <div class="col-sm-2" style="background-color:gray;"><a href="search.html"> <i style="font-size:30px;color:white;padding-top:10px;" class="fa fa-search fa-4x"></i></a></div>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navCollapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="#" class="navbar-brand">DG3 Eindopdracht</a>
+      </div>
+      <div class="collapse navbar-collapse" id="navCollapse">
+        <ul class="nav navbar-nav">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="formulier.html">Formulier</a></li>
+          <li><a href="information.html">Information</a></li>
+          <li class="active"><a href="news.html">News</a></li>
+          <li><a href="opmerkingen.html">Opmerkingen</a></li>
+          <li><a href="search.html">Search</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
+  </nav>
   <header>
     <h1>Breaking News</h1>
     <p>Nieuws over dieren</p>

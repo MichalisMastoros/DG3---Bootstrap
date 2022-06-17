@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>DG3 Einopdracht</title>
   <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- uiterlijk -->
@@ -13,34 +13,34 @@
   <link rel="stylesheet" href="css/search.css">
   <!-- Dropdown -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 </head>
 <body>
   <style>
   body{background-image: url(background/lovedeep-singh-ship-jpeg.jpg);}
   </style>
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-1" style="background-color:gray;"><a href="home.html"> <i style="font-size:45px;color:white" class="fa fa-home fa-4x"></i></a></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='aboutme.html'">About Me</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='gallery.html'">Gallery</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='sub.html'">Contact</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='news.html'">News</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='review.html'">Reviews</button></div>
-      <div class="col-sm-1" id="text" style="background-color:gray;color: white;"><button onclick="window.location.href='creator.html'">Creator</button></div>
-      <div class="col-sm-2" style="background-color:gray;"><button></button></div>
-      <div class="col-sm-1" style="background-color:gray;"></div>
-      <div class="col-sm-2" style="background-color:gray;"><a href="search.html"> <i style="font-size:30px;color:white;padding-top:10px;" class="fa fa-search fa-4x"></i></a></div>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">DG3 Eindopdracht</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="formulier.html">Formulier</a></li>
+        <li><a href="information.html">Information</a></li>
+        <li> <a href="news.html">News</a> </li>
+        <li> <a href="opmerkingen.html">Opmerkingen</a> </li>
+        <li class="active"><a href="#">Search</a></li>
+      </ul>
     </div>
-  </div><br><br>
+  </nav>
   <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
 
   <ul id="myUL">
     <li><a href="home.html">Home</a></li>
-    <li><a href="aboutme.html">Aboutme</a></li>
-    <li><a href="gallery.html">Gallery</a></li>
     <li><a href="news.html">News</a></li>
     <li><a href="formulier.html">Formulier</a></li>
-    <li><a href="creator.html">Creators</a></li>
+    <li><a href="information.html">Information</a></li>
   </ul>
 
 <script src="javascript/search.js" charset="utf-8"></script>
