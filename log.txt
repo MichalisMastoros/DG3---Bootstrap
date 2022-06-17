@@ -5,20 +5,20 @@ Date:   Fri Jun 17 11:10:04 2022 +0200
     changes
 
 commit 8acd96b06546fe8b83627b1124429471894676a3
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:48:42 2022 +0200
 
     opmerkingen
 
 commit efc03f885160296d89102a9ee028aa691dc31fe0
 Merge: 8a26748 2e5bc32
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:45:57 2022 +0200
 
     Merge branch 'main' of https://github.com/MichalisMastoros/DG3---Bootstrap
 
 commit 8a2674888e3deb9cdb322d0804014ec4ab85a5a0
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:45:49 2022 +0200
 
     done
@@ -43,44 +43,44 @@ Date:   Fri Jun 17 10:43:17 2022 +0200
     added information page
 
 commit 296846e63ee93a089d9312ad7dcdc69b03dee8d9
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:43:16 2022 +0200
 
     fixed dieren.html
 
 commit c50d79a0980111851ebb61dd29b5ef4824bdea71
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:41:18 2022 +0200
 
     fixed
 
 commit 94254fd8345e2856f8563976fc7f88ea3c00dcbe
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:38:24 2022 +0200
 
     added background
 
 commit d9f4b584bf99c73cef2a91b8b12333a8e768ea4c
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:37:07 2022 +0200
 
     fixed news site
 
 commit 3d4362106ad28482285a4556b790ddd3274d28f8
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:32:42 2022 +0200
 
     added css
 
 commit 280c34c7fdd67ddeec50a7326f9488321c64ffdf
 Merge: 5d7d84a 832b8d3
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:24:00 2022 +0200
 
     Merge branch 'main' of https://github.com/MichalisMastoros/DG3---Bootstrap
 
 commit 5d7d84a8433f513925339f63f8309458c27da68f
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Fri Jun 17 10:23:39 2022 +0200
 
     added news website
@@ -116,7 +116,7 @@ Date:   Tue Jun 14 10:42:00 2022 +0200
     Deleting test files
 
 commit bd714ffdeb02cbd46ac6f8449c5d9139bd67e6eb
-Author: OmaeWaMouShindeiru15 <zicobruggink@gmail,com>
+Author: OmaeWaMouShindeiru15 <zicobruggink@gmail.com>
 Date:   Mon Jun 13 11:14:04 2022 +0200
 
     test
